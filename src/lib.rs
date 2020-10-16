@@ -78,8 +78,8 @@ pub mod page;
 pub mod repr;
 pub mod style;
 pub mod view;
+pub mod axis;
 
-mod axis;
 mod errors;
 mod svg_render;
 mod text_render;
